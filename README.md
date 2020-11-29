@@ -1,3 +1,3 @@
 # https://shoppybazar.arijitsaharay.repl.co
-# shoppybazar
+# Shoppy Bazar
 Ecommerce website template made from scratch
